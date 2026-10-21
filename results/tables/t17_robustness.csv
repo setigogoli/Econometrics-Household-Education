@@ -1,0 +1,9 @@
+,elasticity,comment,deviation from baseline
+"BASELINE  two-part, income (§7.4)",0.9151,income two-part reference,
+BASELINE  Working–Leser 2SLS (§10.2),1.3803,IV specification,
+weighted (WLS) instead of unweighted,1.0742,"intensive margin re-weighted, extensive held fixed",0.1591
+all households (no student restriction),1.208,different population; log1p(student count),0.2929
+linear years of schooling (not dummies),0.933,specification of head's education,0.0179
+quadratic Working–Leser (OLS),1.185,functional form,0.2699
+excluding Tehran province,0.8978,excludes Tehran,-0.0173
+trimming the top 1% of budget shares,0.9302,extreme spenders,0.0151

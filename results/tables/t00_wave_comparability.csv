@@ -1,0 +1,9 @@
+,levels 1394,levels 1403,identical
+Urban_Rural,2,2,True
+Head_Sex,2,2,True
+Head_Education_Level,9,9,True
+Head_Marital_Status,4,4,True
+Head_Activity_Status,6,6,True
+Tenure,7,7,True
+Season,4,4,True
+Province,31,31,True

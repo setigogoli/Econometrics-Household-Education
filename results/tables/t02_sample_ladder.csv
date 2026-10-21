@@ -1,0 +1,7 @@
+filter,households,dropped,% of raw
+"raw, both waves",75757,0,100.0
+at least one enrolled student,36394,39363,48.0
+income > 0  (log defined),36382,12,48.0
+total expenditure > 0,36382,0,48.0
+education ≤ total expenditure,36382,0,48.0
+head aged 15–99,36382,0,48.0

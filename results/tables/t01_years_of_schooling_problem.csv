@@ -1,0 +1,11 @@
+Head_Education_Level,n_total,% missing,mean,min,max
+(missing),19399,74.35,9.08,0.0,24.0
+Bachelors,4704,14.05,12.87,0.0,24.0
+Doctoral,147,10.88,18.04,0.0,24.0
+Higher_Secondary,1034,15.38,10.21,0.0,17.0
+Lower_Secondary,12121,15.39,8.38,0.0,19.0
+Masters,1336,14.75,14.58,0.0,23.0
+Pre_University,11553,13.8,10.39,0.0,24.0
+Primary,21421,14.52,6.96,0.0,24.0
+Short_Cycle_Tertiary,2313,13.06,11.77,0.0,21.0
+Unofficial,1729,14.29,5.49,0.0,19.0

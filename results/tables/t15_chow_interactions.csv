@@ -1,0 +1,13 @@
+,change 1394 → 1403,cluster SE,p
+head: Self-employed,-0.1359,0.0517,0.0086
+head: Higher_Secondary,0.3281,0.1514,0.0302
+owner,0.1045,0.0572,0.0678
+ln_inc,0.1071,0.0727,0.1405
+head: Masters,-0.2189,0.1506,0.1461
+head: Lower_Secondary,0.1355,0.095,0.1536
+head: Bachelors,-0.1579,0.1135,0.1643
+head: Income without work,-0.1102,0.081,0.1734
+head: Unofficial,-0.3775,0.2871,0.1886
+kids,-0.0704,0.0569,0.216
+head: Short_Cycle_Tertiary,-0.1352,0.1201,0.2604
+age,-0.0167,0.0165,0.3132

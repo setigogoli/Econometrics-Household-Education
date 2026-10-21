@@ -1,0 +1,6 @@
+,LPM (OLS),Probit
+coefficient on ln(income),0.0828,0.3269
+  cluster SE,(0.0118),(0.0395)
+N,"36,382","36,382"
+R² / pseudo-R²,0.281,0.248
+average partial effect,—,0.0821

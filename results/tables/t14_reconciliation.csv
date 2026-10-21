@@ -1,0 +1,10 @@
+resource measure,estimator,elasticity η,specification,note,luxury / necessity
+reported income,"log-OLS, positive spenders only (§5, M4)",0.7532,positive-spending subsample,conditional log-spending slope,necessity
+reported income,two-part model (§7.4),0.9151,includes zeros,↑ vs log-OLS,necessity
+reported income,PPML (§8.2),0.9035,"includes zeros, no retransformation",≈ two-part,necessity
+total expenditure,"log-OLS, positive spenders only (§5, M5)",0.9104,positive-spending subsample,↑ vs income,necessity
+total expenditure,two-part model,1.1191,includes zeros; expenditure regressor,↑ again,luxury
+total expenditure,PPML (§8.2),1.0389,"includes zeros, mean-only assumption",≈ two-part,luxury
+total expenditure,Tobit on the budget share (§8.1),1.2451,zeros as censoring,cross-check,luxury
+total expenditure,Working–Leser OLS (§10.2),1.1771,share equation; expenditure regressor,OLS specification,luxury
+total expenditure,Working–Leser 2SLS (§10.2),1.3803,"share form, X instrumented",depends on income exclusion,luxury

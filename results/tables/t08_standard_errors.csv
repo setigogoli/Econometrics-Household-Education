@@ -1,0 +1,5 @@
+,coefficient,SE classical,SE robust (HC1),SE clustered (province),cluster / classical
+ln_inc,0.7532,0.0202,0.0211,0.0372,1.84
+ln_stu,1.0044,0.0248,0.0254,0.0383,1.54
+fsize,-0.2306,0.0356,0.0437,0.0423,1.19
+urban,0.3628,0.0195,0.0195,0.0329,1.69
