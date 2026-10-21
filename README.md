@@ -30,21 +30,3 @@ The figure uses unweighted sample means; the 2.27% and 1.36% figures above use s
 
 The analysis starts with 75,757 household records. The main sample contains 36,382 households with an enrolled student, including 26,082 with positive education spending. We compare log-OLS, a probit/log-OLS two-part model, PPML, Tobit, and Working–Leser OLS and 2SLS specifications. Most regression standard errors are clustered across 31 provinces; exceptions are explained in the notebook.
 
-## Run the analysis
-
-Use Python 3.11 or 3.12. From the repository folder:
-
-```bash
-python -m venv .venv
-```
-
-Activate the environment with `source .venv/bin/activate` on macOS/Linux, or `.venv\Scripts\Activate.ps1` in Windows PowerShell. Then run:
-
-```bash
-python -m pip install -r requirements.txt
-python -m jupyterlab notebooks/education_expenditure.ipynb
-```
-
-Place the two workbooks listed in [data/README.md](data/README.md) in `data/raw/`, then run the notebook from top to bottom. Tables and figures are written to `results/`. The notebook also supports workbooks attached under `/kaggle/input` when run on Kaggle.
-
-The raw workbooks are **not included**. Saved notebook outputs and exported results can be read without them. A complete rerun requires those inputs. Dependency ranges in `requirements.txt` are not an exact lock of the original execution environment.
